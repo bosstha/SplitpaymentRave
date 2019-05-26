@@ -1,0 +1,23 @@
+form {border: 5px solid #f1f1f1;}
+            button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 10px;
+  margin: 5px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  align-items: center
+}
+
+
+body
+{
+    background-color:rgb(238, 55, 86);
+    align-content: center;
+}
+      h2
+      {
+        color:blue;
+        
+      }    
